@@ -1,10 +1,7 @@
 # Maze Escape
-Final group project for Computer Science 1 - CSC 2100
+Computer Science 1 - CSC 2100
 
-• Collaborated with team to design and build a maze-escape game in C++ for final group project
-
-• Independently designed and implemented a map function to display maze to the screen. Also collaborated to implemented and debugged the Run function.
-
-• Gained experience with OOP, data structures, exception handling, and debugging in MS Visual Studio
+• Final project for Computer Science 1, collaborated with team of 4 to build a game in C++ using Visual Studio
+• Independently designed and implemented a feature in program to display maze on the screen for the user
 
 
