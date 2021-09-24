@@ -1,4 +1,4 @@
-# CSC_2100_Final_Project
+# Maze Escape
 Final group project for Computer Science 1 - CSC 2100
 
 • Collaborated with team to design and build a maze-escape game in C++ for final group project
